@@ -1,0 +1,121 @@
+.nav {
+  background-color: #2a75ec;
+  height: 56px;
+
+  display: flex;
+}
+.Flipcartplus {
+  height: 43px;
+  width: 83px;
+  margin-left: 185px;
+  margin-top: 5px;
+}
+.FlipkartInput {
+  width: 420px;
+  height: 35px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius: 1px;
+  border: none;
+  padding-left: 20px;
+}
+.Login {
+  height: 30px;
+  width: 120px;
+  margin-top: 13px;
+  margin-left: 20px;
+  background-color: #ffffff;
+  border: none;
+  color: #4275c9;
+}
+.Becomeh3 {
+  color: #ffffff;
+  margin-left: 40px;
+  margin-top: 17px;
+}
+.more_label {
+  color: #ffffff;
+  margin-top: 17px;
+  margin-left: 40px;
+}
+.selectbox {
+  background-color: #2a75ec;
+  color: #ffffff;
+  border: none;
+}
+.selectbox option {
+  background-color: #ffffff;
+  border: none;
+}
+.cartlogo {
+  border-radius: 50%;
+  height: 25px;
+  width: 28px;
+  margin-top: 17px;
+  margin-left: 40px;
+}
+.cart {
+  margin-top: 17px;
+  color: #ffffff;
+  margin-left: 5px;
+}
+/* ///////////// Item Div ///////////////// */
+.itemDiv {
+  display: flex;
+  text-align: center;
+  box-shadow: 2px 2px 2px 2px #cecece;
+  height: 120px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.item {
+  width: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  height: 100px;
+  /* border: 1px solid red; */
+}
+.img {
+  width: 65px;
+  margin-left: 10px;
+  height: 65px;
+
+  /* border: 1px solid red; */
+}
+.centerDiv {
+  margin-top: 30px;
+  width: 100%;
+  border: 1px solid red;
+}
+.centerDiv2 {
+  margin-top: 30px;
+  height: 100px;
+  width: 100%;
+}
+/* //////Bottom Div////////// */
+.itemDiv2 {
+  margin-top: -230px;
+  display: flex;
+  text-align: center;
+  box-shadow: 2px 2px 2px 2px #cecece;
+  height: 250px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.item2 {
+  width: 230px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  height: 100px;
+  /* border: 1px solid red; */
+}
+.img2 {
+  width: 210px;
+  margin-left: 10px;
+  height: 200px;
+
+  /* border: 1px solid red; */
+}
